@@ -1,0 +1,32 @@
+INTRODUCTION OF SPRING5
+-----------------------
+->Spring is a popular open source Java Application development framework created by rod johnson.
+->The basic objective of the framework was tovreduce the complexity involved in the development of enterprise applications.
+->Spring framework helps in developing a lossely coupled application which is simple, easily testable, reusable and maintainable.
+->Mainly, It is used for the development of enterprise application.
+
+This is the link to download the Spring 5 Demos:
+https://infyspringboard.onwingspan.com/common-content-store/Shared/Shared/Public/lex_auth_0127872485331107847073_shared/web-hosted/assets/SpringDemos.zip
+
+Application description:
+->ReportGenerator
+->HTMLReportGenerator
+->PDFReportGenerator
+->ReportService
+->Client
+
+Main Features of Spring Framework
+----------------------------------
+->Light Weight
+->Non-Invasive
+->Loosely Coupled
+->Inversion of Control(IoC)
+->Spring Container
+->Aspect Oriented Programming(AOP)
+
+Spring Framework 5.x has the following key module groups:
+->Core Container
+->Data Access/Integration
+->Web
+
+
